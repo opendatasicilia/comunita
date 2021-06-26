@@ -9,3 +9,9 @@ Il luogo principale di scambio e lavoro è quello delle [**discussioni**](https:
 - 🙏 Domande, per fare domande utili a sviluppare le idee proposte;
 - 💬 Generale, per discussioni generali;
 - 🙌 Racconta, per fare il punto sui progetti e condividere qualcosa di interessante in merito.
+
+# Community calls
+
+La comunità si riunisce l'ultimo sabato del mese alle 11, in riunioni audio/video su Telegram <https://t.me/opendatasicilia?voicechat=05449df534dad51259>
+
+Qui il log delle riunioni <https://docs.google.com/document/d/1MWT_QCh2Uqjscl5lJ0-tcibPLe8InpTUyAAgnuDv_cc/edit?usp=sharing>
